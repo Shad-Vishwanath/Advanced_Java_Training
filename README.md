@@ -87,6 +87,12 @@ This training has helped me build a strong base in Java programming, and I will 
 
 ---
 
+## Training Tracker
+You can view my Advanced Java Training progress tracker here:  
+[Advanced Java Training Tracker](https://docs.google.com/spreadsheets/d/17k-uLqvIQ74rDK7ff8-W3anDuePgdrq6fSFIRIVu0-U/edit?usp=sharing)
+
+---
+
 ## Status
 Completed: **Day 1 to Day 6**  
 Current Day: **Day 7**
