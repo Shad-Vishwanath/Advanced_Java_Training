@@ -1,0 +1,7 @@
+package project_2;
+
+class DuplicateDeviceException extends Exception {
+    public DuplicateDeviceException(String message) {
+        super(message);
+    }
+}
